@@ -1,0 +1,15 @@
+{
+  "name": "slideeditor-wp",
+  "version": "0.1.0",
+  "authors": "Marten Sytema <marten@lokaalgevonden.nl>",
+  "description": "Slide editor for wordpress js dependencies",
+  "keywords": [
+    "Slate"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "~0.12.2",
+    "react-draggable": "~0.4.0"
+  }
+}
